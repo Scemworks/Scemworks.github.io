@@ -86,6 +86,3 @@ title = "Email"
     name = "ATP"
     url = "/atp"
     weight = 2
-
-[ignoreFiles]
-include = [".well-known"]
