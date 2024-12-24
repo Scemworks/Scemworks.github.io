@@ -1,4 +1,4 @@
-baseURL = "http://pmshadin.me/"
+baseURL = "https://pmshadin.me/"
 languageCode = 'en-us'
 title = "Scemworks"
 paginate = 5
