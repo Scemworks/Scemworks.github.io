@@ -63,17 +63,17 @@ title = "GitHub"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://linkedin.com/in/mohammedshadin"
+url = "https://linkedin.com/in/scemworks"
 title = "LinkedIn"
 
 [[params.socialIcons]]
 name = "twitter"
-url = "https://twitter.com/scemworks"
+url = "https://twitter.com/Scemworks"
 title = "Twitter"
 
 [[params.socialIcons]]
 name = "email"
-url = "mailto:contact@scemworks.com"
+url = "mailto:mohammedshadin65@proton.me"
 title = "Email"
 
 [menu]
@@ -83,6 +83,6 @@ title = "Email"
     weight = 1
 
 [[menu.main]]
-    name = "ATP"
-    url = "/atp"
+    name = "Codes"
+    url = "/codes"
     weight = 2
